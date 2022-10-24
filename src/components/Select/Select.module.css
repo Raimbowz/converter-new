@@ -1,0 +1,25 @@
+.currencyName{
+    margin-right: 10px;
+}
+.inputAutocomplete{
+    height: 44px;
+}
+.inputAutocomplete > svg{
+    border: 1px solid rgba(194, 194, 194,0.65);
+    padding: 7px;
+    top: 0;
+    right: 0;
+    height: 28px;
+    width: 40px;
+    border-top-right-radius: 8px;
+}
+.inputLabel:not(.Mui-focused){
+    font-size: 20px!important;
+    top: -12px!important;
+}
+.inputLabel:focus{
+    top: -25px!important;
+}
+.Mui-focused{
+    top: -25px!important;
+}
