@@ -1,4 +1,4 @@
-const apiKey = '1686cdc1e8-176fb631a0-rk9bta';
+const apiKey = '25418d26dc-23d4f61d1b-rkgfy2';
 const options = {method: 'GET', headers: {accept: 'application/json'}};
 const baseUrl = 'https://api.fastforex.io';
 
