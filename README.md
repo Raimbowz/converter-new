@@ -1,5 +1,5 @@
 Тестовое задание.
-https://raimbowz.github.io/converter-new/
+https://raimbowz.github.io/converter/
 
 Функционал:
 
